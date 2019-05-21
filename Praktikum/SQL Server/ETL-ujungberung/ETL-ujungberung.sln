@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL-ujungberung", "ETL-ujungberung.dtproj", "{B2A7A302-7BD1-4231-9F84-42B8E9DF096C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A7A302-7BD1-4231-9F84-42B8E9DF096C}.Development|Default.ActiveCfg = Development
+		{B2A7A302-7BD1-4231-9F84-42B8E9DF096C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCA5C9C-F4C1-4DC5-A51A-D99DF149B698}
+	EndGlobalSection
+EndGlobal
